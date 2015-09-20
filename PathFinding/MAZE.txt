@@ -1,0 +1,16 @@
+0000A
+00000
+00001
+1000B
+11101
+
+
+//Rules For writing Maze
+Grid Width = 5
+Grid Height = 5
+0 -> Walkable Area
+1 -> Wall
+A -> Starting Point
+B -> End Point
+donot use spaces
+Sample Maze shown above
